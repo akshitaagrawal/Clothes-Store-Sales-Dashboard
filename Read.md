@@ -31,7 +31,7 @@ Key Insights:
 - Top-performing product categories drive a significant share of revenue.
 
 Dashboard Preview: 
-
+https://github.com/akshitaagrawal/Clothes-Store-Sales-Dashboard/blob/main/Dashboard.jpg?raw=true
 
 
 
