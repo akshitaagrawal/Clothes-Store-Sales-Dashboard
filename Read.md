@@ -33,8 +33,6 @@ Key Insights:
 Dashboard Preview: 
 https://github.com/akshitaagrawal/Clothes-Store-Sales-Dashboard/blob/main/Dashboard.jpg?raw=true
 
-
-
 Project Learnings: 
 - Hands-on experience with Excel-based analytics & dashboarding.
 - Understanding of retail customer behavior through data.
